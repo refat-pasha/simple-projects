@@ -17,6 +17,7 @@ def update():
 
 
 window = Tk()
+window.title('CLOCK')
 time_lable = Label(window,font = ("Ink Free",25 ))
 time_lable.pack()
 
