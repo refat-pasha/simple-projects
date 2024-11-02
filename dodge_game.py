@@ -184,3 +184,11 @@ class DodgySquare:
 if __name__ == '__main__':
     game = DodgySquare()
     game.run()
+
+
+#to convert it into a exe file type:
+"""
+pip install pyinstaller
+then
+pyinstaller --onefile --windowed dodge_game.py
+"""
