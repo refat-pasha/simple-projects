@@ -1,0 +1,55 @@
+('H:\\New folder (7)\\PyThon\\projects\\tests\\build\\QRcode maker\\QRcode '
+ 'maker.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'H:\\New folder (7)\\PyThon\\projects\\tests\\build\\QRcode '
+   'maker\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'H:\\New folder (7)\\PyThon\\projects\\tests\\build\\QRcode '
+   'maker\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'H:\\New folder (7)\\PyThon\\projects\\tests\\build\\QRcode '
+   'maker\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'H:\\New folder (7)\\PyThon\\projects\\tests\\build\\QRcode '
+   'maker\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'H:\\New folder (7)\\PyThon\\projects\\tests\\build\\QRcode '
+   'maker\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'H:\\New folder (7)\\PyThon\\projects\\tests\\build\\QRcode '
+   'maker\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Refat '
+   'Pasha\\PycharmProjects\\1st\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Refat '
+   'Pasha\\PycharmProjects\\1st\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('QRcode maker',
+   'H:\\New folder (7)\\PyThon\\projects\\Tests\\QRcode maker.py',
+   'PYSOURCE')],
+ 'python311.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
