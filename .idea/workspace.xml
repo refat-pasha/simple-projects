@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b1cfc4f-1347-4075-b2cc-c8ad038e5ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/text_scrapping_from_pptx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Weather Info/Weather info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weather Info/Weather info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_scrapping_from_pptx.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_scrapping_from_pptx.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Date Converter.executor": "Run",
+    "Python.text_scrapping_from_pptx.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
